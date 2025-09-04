@@ -1,4 +1,4 @@
-# Calculadora de Manutenção Veicular 🚗🏍️
+## Calculadora de Manutenção Veicular 🚗🏍️
 Calculadora projetada para auxiliar na organização e no controle de despesas veiculares.
 
 ## 📄 Sobre o Projeto
